@@ -11,3 +11,10 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 ## First setup
 
 **[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+
+1) Download and install Docker from here: https://docs.docker.com/get-docker/. 
+2) Change directory to the project's root directory. 
+3) Run the script "start_quest.sh". If you're stuck here, google it and search for how to run a script or.sh file on your operating system. 
+4) Start Docker on your computer. 
+5) From the project root directory, run the command "docker-compose up". 
+6) That's it!
